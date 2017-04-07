@@ -17,7 +17,7 @@ public class MyContactsProvider extends ContentProvider {
 
     // // Константы для БД
     // БД
-    static final String DB_NAME = "mydb";
+    static final String DB_NAME = "/storage/sdcard0/AppProjects/ContentProvider/mydb";
     static final int DB_VERSION = 1;
 
     // Таблица
